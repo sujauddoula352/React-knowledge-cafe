@@ -15,7 +15,7 @@
       "title": "Whispers in the Dark",
       "author": "Samuel H. Montgomery",
       "author_img": "https://i.postimg.cc/3J1zGCbp/boy2.jpg",
-      "post_date": "March 13, 2024",
+      "post_date": "March 12, 2024",
       "reading_time": "8",
       "hashtags": ["javaScript", " coding","dev"]
     },
@@ -25,9 +25,9 @@
       "title": "Serenity's Song",
       "author": "Eleanor R. Sinclair",
       "author_img": "https://i.postimg.cc/mkb8ZK4n/girl1.jpg",
-      "post_date": "March 13, 2024",
+      "post_date": "March 14, 2024",
       "reading_time": "10",
-      "hashtags": ["mid-level",
+      "hashtags": ["mid_level",
                     "react"]
     },
     {
@@ -37,7 +37,7 @@
       "author": "Benjamin X. Franklin",
       "author_img": "https://i.postimg.cc/ZKQFXWW2/girl2.jpg",
       "post_date": "March 13, 2024",
-      "reading_time": "15 minutes",
+      "reading_time": "15",
       "hashtags": ["Development", "resources"]
     },
     {
@@ -48,17 +48,7 @@
         "author_img": "https://i.postimg.cc/9fC4k2Ys/profile.png",
         "post_date": "March 13, 2024",
         "reading_time": "11",
-        "hashtags": ["#Fantasy", "#Magic", "#Adventure"]
-      },
-      {
-        "id": 135790,
-        "cover": "https://i.postimg.cc/CLy6CvGF/3575238.jpg",
-        "title": "Shadow of the Phoenix",
-        "author": "Nathaniel D. Blackwood",
-        "author_img": "[Placeholder Image URL]",
-        "post_date": "March 13, 2024",
-        "reading_time": "9",
-        "hashtags": ["#Fantasy", "#Mythology", "#Quest"]
+        "hashtags": ["Fantasy", "Magic", "Adventure"]
       }
   ]
   

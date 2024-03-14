@@ -1,0 +1,64 @@
+[
+    {
+      "id":1,
+      "cover": "https://i.postimg.cc/65Zy5qHD/2.png",
+      "title": "The Enigmatic Expedition",
+      "author": "Amelia J. Kensington",
+      "author_img": "https://i.postimg.cc/y8Y4prSv/boy1.png",
+      "post_date": "March 13, 2024",
+      "reading_time": "12",
+      "hashtags": ["beginners", "es6"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.postimg.cc/Hnsfx616/1.jpg",
+      "title": "Whispers in the Dark",
+      "author": "Samuel H. Montgomery",
+      "author_img": "https://i.postimg.cc/3J1zGCbp/boy2.jpg",
+      "post_date": "March 13, 2024",
+      "reading_time": "8",
+      "hashtags": ["javaScript", " coding","dev"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.postimg.cc/Pf37yzjk/3.png",
+      "title": "Serenity's Song",
+      "author": "Eleanor R. Sinclair",
+      "author_img": "https://i.postimg.cc/mkb8ZK4n/girl1.jpg",
+      "post_date": "March 13, 2024",
+      "reading_time": "10",
+      "hashtags": ["mid-level",
+                    "react"]
+    },
+    {
+      "id": 789012,
+      "cover": "https://i.postimg.cc/L5kW14g9/4.jpg",
+      "title": "The Quantum Quandary",
+      "author": "Benjamin X. Franklin",
+      "author_img": "https://i.postimg.cc/ZKQFXWW2/girl2.jpg",
+      "post_date": "March 13, 2024",
+      "reading_time": "15 minutes",
+      "hashtags": ["Development", "resources"]
+    },
+    {
+        "id": 246801,
+        "cover": "https://i.postimg.cc/XN5VLzCq/2817655.jpg",
+        "title": "Echoes of Eternity",
+        "author": "Olivia G. Armstrong",
+        "author_img": "https://i.postimg.cc/9fC4k2Ys/profile.png",
+        "post_date": "March 13, 2024",
+        "reading_time": "11",
+        "hashtags": ["#Fantasy", "#Magic", "#Adventure"]
+      },
+      {
+        "id": 135790,
+        "cover": "https://i.postimg.cc/CLy6CvGF/3575238.jpg",
+        "title": "Shadow of the Phoenix",
+        "author": "Nathaniel D. Blackwood",
+        "author_img": "[Placeholder Image URL]",
+        "post_date": "March 13, 2024",
+        "reading_time": "9",
+        "hashtags": ["#Fantasy", "#Mythology", "#Quest"]
+      }
+  ]
+  
